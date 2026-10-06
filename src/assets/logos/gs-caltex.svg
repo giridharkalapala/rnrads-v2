@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <!-- GS Caltex Logo -->
+  <g transform="translate(10, 10)">
+    <!-- Symbol: Dual overlapping leaves / drops -->
+    <path d="M 12 18 C 12 8 20 4 28 8 C 24 16 18 24 12 18 Z" fill="#00A859"/>
+    <path d="M 28 8 C 36 12 36 24 24 30 C 22 22 24 14 28 8 Z" fill="#00A9E8"/>
+    <!-- Text -->
+    <text x="44" y="24" font-family="'Manrope', 'Segoe UI', Arial, sans-serif" font-size="20" font-weight="900" fill="#061A33">GS <tspan font-weight="600">Caltex</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" fill="none">
+  <!-- Unacademy Logo -->
+  <g transform="translate(10, 8)">
+    <!-- Arc Symbol -->
+    <path d="M 6 18 C 12 6 28 6 34 18" stroke="#00A9E8" stroke-width="4.5" stroke-linecap="round"/>
+    <path d="M 12 24 C 16 16 24 16 28 24" stroke="#08BD80" stroke-width="4" stroke-linecap="round"/>
+    <!-- Text -->
+    <text x="44" y="24" font-family="'Manrope', 'Segoe UI', Arial, sans-serif" font-size="20" font-weight="800" fill="#08294A" letter-spacing="-0.5">unacademy</text>
+  </g>
+</svg>

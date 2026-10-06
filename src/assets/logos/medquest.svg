@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" fill="none">
+  <!-- MedQuest Diagnostics Logo -->
+  <g transform="translate(10, 8)">
+    <!-- Symbol: Red ribbon 'M' shape -->
+    <path d="M 6 30 L 14 10 L 22 24 L 30 10 L 38 30 H 30 L 26 19 L 22 26 L 18 19 L 14 30 Z" fill="#C5112E"/>
+    <!-- Text -->
+    <text x="46" y="22" font-family="'Manrope', 'Segoe UI', Arial, sans-serif" font-size="18" font-weight="900" fill="#C5112E">Med<tspan fill="#061A33">Quest</tspan></text>
+    <text x="48" y="32" font-family="'Manrope', 'Segoe UI', Arial, sans-serif" font-size="7.5" font-weight="600" fill="#00A9E8" letter-spacing="1">DIAGNOSTICS</text>
+  </g>
+</svg>
